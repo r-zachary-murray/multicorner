@@ -1,5 +1,5 @@
-.. MultiCorner Documentation
-=============================
+MultiCorner Documentation
+=========================
 
 Welcome to the MultiCorner documentation!
 This guide will walk you through the various aspects of using and understanding MultiCorner plots.
