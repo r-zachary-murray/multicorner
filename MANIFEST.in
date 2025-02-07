@@ -1,0 +1,11 @@
+include README.md
+include LICENSE
+include requirements.txt
+
+graft src  # Includes everything inside src/
+prune docs  # Excludes docs/
+prune extras  # Excludes extras/
+prune dev  # Excludes dev/
+prune paper  # Excludes paper/
+
+recursive-include tests *  # Includes tests/
