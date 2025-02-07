@@ -1,7 +1,7 @@
 [![Version](https://img.shields.io/badge/multicorner-v1.0.0-green.svg?style=flat)](https://multicorner.readthedocs.io/en/latest/index.html)
 
 <p align="center">
-  <img src="paper/multicornerplot.png" alt="A multicorner plot" width="75%">
+  <img src="paper/multicornerplot.png" alt="A multicorner plot" width="85%">
 </p>
 
 # Multicorner
