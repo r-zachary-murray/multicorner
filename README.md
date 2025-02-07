@@ -6,7 +6,7 @@
 
 # Multicorner
 
-Multicorner is a small script, inspired by [Corner.py](https://github.com/dfm/corner.py) to make cornerplots of widely, spaced multimodal distributions.
+Multicorner is a small script, inspired by [corner.py](https://github.com/dfm/corner.py) to make cornerplots of widely, spaced multimodal distributions.
 
 ## Installation (Python)
 
