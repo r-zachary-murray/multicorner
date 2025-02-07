@@ -1,0 +1,5 @@
+sphinx
+nbsphinx
+ipython
+jupyter
+sphinx-rtd-theme  # (Optional) Read the Docs theme
