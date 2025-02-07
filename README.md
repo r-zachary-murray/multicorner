@@ -1,9 +1,10 @@
 [![Version](https://img.shields.io/badge/multicorner-v1.0.0-green.svg?style=flat)](https://assist.readthedocs.org)
 
+![A multicorner plot](paper/multicornerplot.png)
 
 # Multicorner
 
-Multicorner is a small script, inspried by Corner.py[https://github.com/dfm/corner.py] to make cornerplots of widely, spaced multimodal distributions.
+Multicorner is a small script, inspried by [Corner.py](https://github.com/dfm/corner.py) to make cornerplots of widely, spaced multimodal distributions.
 
 ## Installation (Python)
 
