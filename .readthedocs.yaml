@@ -13,6 +13,6 @@ sphinx:
   configuration: docs/conf.py  # The Sphinx config file path
 
 formats:
-  - html
+  - htmlzip
   - pdf
   - epub
