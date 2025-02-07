@@ -1,14 +1,19 @@
 [![Version](https://img.shields.io/badge/multicorner-v1.0.0-green.svg?style=flat)](https://assist.readthedocs.org)
 
+<p align="center">
+  <img src="your-image.png" alt="Description" width="50%">
+</p>
+
+
 ![A multicorner plot](paper/multicornerplot.png)
 
 # Multicorner
 
-Multicorner is a small script, inspried by [Corner.py](https://github.com/dfm/corner.py) to make cornerplots of widely, spaced multimodal distributions.
+Multicorner is a small script, inspired by [Corner.py](https://github.com/dfm/corner.py) to make cornerplots of widely, spaced multimodal distributions.
 
 ## Installation (Python)
 
-It's good practice to setup a virtual environment to install any module. This can be done with python via. 
+It's good practice to set up a virtual environment to install any module. This can be done with python via. 
 
     python3 -m venv venvname
     source venvname/bin/activate
