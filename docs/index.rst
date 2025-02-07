@@ -1,4 +1,4 @@
-MultiCorner Documentation
+Multicorner Documentation
 =========================
 
 Welcome to the MultiCorner documentation!
