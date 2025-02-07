@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/badge/assist-v1.1.9-green.svg?style=flat)](https://assist.readthedocs.org)
+[![Version](https://img.shields.io/badge/multicorner-v1.0.0-green.svg?style=flat)](https://assist.readthedocs.org)
 
 
 # Multicorner
