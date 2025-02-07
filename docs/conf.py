@@ -5,8 +5,8 @@ import sys
 sys.path.insert(0, os.path.abspath(".."))  # Ensure Python files are found
 
 # -- Project information -----------------------------------------------------
-project = 'My Project'
-author = 'Your Name'
+project = 'Multicorner'
+author = 'Zachary Murray'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
