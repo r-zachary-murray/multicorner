@@ -1,7 +1,7 @@
 .. MultiCorner Documentation
-=================================
+=============================
 
-Welcome to the documentation for MultiCorner!  
+Welcome to the MultiCorner documentation!
 This guide will walk you through the various aspects of using and understanding MultiCorner plots.
 
 .. toctree::
