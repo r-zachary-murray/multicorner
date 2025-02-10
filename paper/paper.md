@@ -4,13 +4,13 @@ authors:
   - name: "Zachary Murray"
     orcid: 0000-0002-8076-3854
     equal-contrib: true
-    affiliation: "1" # (Multiple affiliations must be quoted)
+    affiliation: 1
 affiliations:
- - name: Research Excellence Fellow, Universite Cite dAzur, France
+ - name: Research Excellence Fellow, Université Côte d'Azur, France
    index: 1
 date: 10 February 2025
 bibliography: references.bib
-
+---
 
 
 # Summary
