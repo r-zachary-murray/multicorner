@@ -1,14 +1,12 @@
 ---
-title: 'Multicorner.py: pairplots for multi-modal distributions'
-tags:
-  - Python
+title: "Multicorner.py: pairplots for multi-modal distributions"
 authors:
-  - name: Zachary Murray
+  - name: "Zachary Murray"
     orcid: 0000-0002-8076-3854
     equal-contrib: true
     affiliation: "1" # (Multiple affiliations must be quoted)
 affiliations:
- - name: Research Excellence Fellow, Université Côte d'Azur, France
+ - name: Research Excellence Fellow, Universite Cite dAzur, France
    index: 1
 date: 10 February 2025
 bibliography: references.bib
