@@ -94,4 +94,11 @@ These plots, produced by *multicorner*, are divided into three main parts:
    of the covariances between modes.
 
 
+# Acknowledgments
+
+This work was supported by the French government through the France 2030
+investment plan managed by the National Research Agency (ANR), as part of the
+Initiative of Excellence of Université Côte d’Azur under reference number ANR-15-IDEX-
+01.
+
 # References
